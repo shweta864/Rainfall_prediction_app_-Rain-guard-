@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Predict"
+        android:id="@+id/home"
+        android:icon="@drawable/home"/>
+
+    <item android:title="Crop"
+        android:id="@+id/crop"
+        android:icon="@drawable/baseline_agriculture_24"/>
+
+    <item android:title="Suggest"
+        android:id="@+id/suggest"
+        android:icon="@drawable/suggest"/>
+
+    <item android:title="Info"
+        android:id="@+id/info"
+        android:icon="@drawable/info"/>
+
+</menu>

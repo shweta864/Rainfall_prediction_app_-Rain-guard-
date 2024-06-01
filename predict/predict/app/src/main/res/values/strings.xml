@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">predict</string>
+    <string name="select_state_prompt">Select State</string>
+    <string-array name="states">
+        <item>EAST MADHYA PRADESH</item>
+        <item>EAST RAJASTHAN</item>
+        <item>GUJARAT REGION</item>
+        <item>MADHYA MAHARASHTRA</item>
+    </string-array>
+    <string-array name="crop_types">
+        <item>Rice</item>
+        <item>Wheat</item>
+        <item>Cotton</item>
+        <item>Soybean</item>
+        <item>Lentils</item>
+    </string-array>
+
+    <string-array name="crop_stages">
+        <item>Germination</item>
+        <item>Leaf Development</item>
+        <item>Flowering</item>
+        <item>Maturity</item>
+    </string-array>
+</resources>
